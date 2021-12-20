@@ -1,3 +1,3 @@
 # foodmunch
-tap below link to preview 
+tap the link to preview 
 https://ranjithpaili.github.io/foodmunch/ 

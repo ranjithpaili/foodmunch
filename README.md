@@ -6,4 +6,6 @@ Designed page using following HTML structure elements like li, header, article, 
 and different bootstrap components to show different sections in the website and different
 bootstrap classes for responsiveness through mobile-first approach.
 
+Technologies used: HTML, CSS, Bootstrap
+
 tap the link to preview https://ranjithpaili.github.io/foodmunch/ 
